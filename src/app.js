@@ -1,1 +1,1 @@
-function main() { console.log('user-dashboard'); }
+function main() { console.log('DEV_FEATURE'); }
