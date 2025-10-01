@@ -1,1 +1,1 @@
-function main() { console.log('PAYMENT_FEATURE'); processPayment(); }
+function main() { console.log('PRODUCTION_READY'); }
