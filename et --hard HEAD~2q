@@ -1,0 +1,27 @@
+[33m92925b7[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/B[m[33m, [m[1;31morigin/feature/B[m[33m, [m[1;32mbackup-before-reset[m[33m)[m Revert "Make bad change to file3"
+[33m0971116[m Make bad change to file3
+[33mf074cb6[m Add feature
+[33m3dbafb9[m Merge branch 'feature/B' of https://github.com/FranchuzTM/learn_code into feature/B
+[33m21361bf[m Fourth commit
+[33m8e9e821[m Fourth commit
+[33m034bc4e[m Third commit
+[33m69bbaad[m Second commit
+[33mbc41347[m First commit
+[33m8c99490[m Feature B
+[33m1b3262b[m[33m ([m[1;31morigin/dev[m[33m, [m[1;32mdev[m[33m)[m Experimental
+[33mbd3115c[m add
+[33ma804079[m Auth hotfix
+[33mede5f5e[m ++
+[33m5ce281f[m[33m ([m[1;32mao[m[33m)[m API add
+[33md409f7f[m modified:   src/app.js
+[33ma8d665a[m[33m ([m[1;31morigin/feauture/user-dashboard[m[33m, [m[1;32mfeauture/user-dashboard[m[33m)[m files 1
+[33mfa263d5[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m, [m[1;32mfeauture_branch[m[33m)[m Добавлен конфликтик
+[33m72668b8[m Merge remote-tracking branch 'origin/feature/login-from'
+[33m0c33730[m Базовые стили
+[33mb2c3342[m Добавил логин
+[33mb2aecd1[m Версия +
+[33m8ab8f37[m Подгрузил файлеК
+[33m25c0e4c[m Update small_script.py
+[33m4f94d08[m Code
+[33md349901[m saf
+[33mf59c66d[m Create asf
