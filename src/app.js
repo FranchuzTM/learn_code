@@ -1,1 +1,1 @@
-// Release version
+function main() { console.log('PRODUCTION_READY'); }
