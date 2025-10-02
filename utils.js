@@ -1,1 +1,0 @@
-function badCode() { throw 'error'; }
