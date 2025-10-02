@@ -1,1 +1,1 @@
-// Secure API with auth
+// Cached API
