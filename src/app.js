@@ -1,1 +1,1 @@
-function main() { console.log('DEV_FEATURE'); }
+function main() { console.log('PRODUCTION_READY'); }
